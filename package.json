@@ -1,0 +1,21 @@
+{
+  "name": "payme",
+  "version": "1.0.0",
+  "description": "New",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MayarAhmed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
